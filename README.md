@@ -1,4 +1,9 @@
 # 3ddemo
+
+## No longer maintained
+First commit builds with DMD 2.076.0 but not later versions.
+Last commit builds with DMD 2.082.0 and might actually work, but no promises. I get an access violation error on loadSymbols() on Windows, and can't currently test on Linux. If you test and it works, let me know.
+
 Written in [D](https://dlang.org).
 
 ### Dependencies

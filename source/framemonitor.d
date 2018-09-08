@@ -2,7 +2,7 @@
 
 class FrameMonitor
 {
-	import std.datetime : StopWatch;
+	import std.datetime.stopwatch : StopWatch;
 	import core.time : Duration;
 
 	StopWatch _sw;
